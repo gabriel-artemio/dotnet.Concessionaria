@@ -27,4 +27,4 @@ Ou pode separar por stacks:
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
-* **Gabriel Artemio** - *Desenvolvedor Back End* - [nome_do_dev](https://github.com/gabriel-artemio)
+* **Gabriel Artemio** - *Desenvolvedor Back End* - [Gabriel Artemio](https://github.com/gabriel-artemio)
